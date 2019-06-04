@@ -9,7 +9,7 @@ object[key]=value
   return object
 }
 function deleteFromObjectByKey(object, key){
-  return Object.assign ?
+  return Object.assign 
 }
 function destructivelyDeleteFromObjectByKey(object, key){
   delete object[key]
